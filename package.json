@@ -8,7 +8,7 @@
     "dev": "env-cmd -f ./config/dev.env nodemon src/server.js -e css,hbs,js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
